@@ -8,6 +8,7 @@ header {
     background-color: #F0F2F5;
     padding: 0 0 100px 0;
 }
+
 #screenhr {
     opacity: 0%;
 }
@@ -188,6 +189,7 @@ label {
 .left {
   float: left;
 }
+
 .right {
 float: right;
 }
@@ -224,6 +226,7 @@ float: right;
     float: left;
     margin-bottom: 2px;
 }
+
 .footer-bottom ul li a {
     color: #4f96f3;
 }
@@ -291,12 +294,15 @@ float: right;
     .footer-bottom {
         font-size: 10px
     }
+    
     .footer-bottom ul li a {
         color: grey;
     }
+    
     .footer-top ul li a {
         color: grey;
     }
+    
     .footer-bottom ul li {
         margin-right: 0;
         width: 14.2857143%;
@@ -348,12 +354,15 @@ float: right;
     .footer-bottom {
         font-size: 10px
     }
+    
     .footer-top ul li a {
         color: grey;
     }
+    
     .footer-bottom ul li a {
         color: grey;
     }
+    
     .footer-bottom ul li {
         margin-right: 0;
         width: 14.2857143%;
@@ -408,12 +417,15 @@ float: right;
     .footer-bottom {
         font-size: 10px
     }
+    
     .footer-top ul li a {
         color: grey;
     }
+    
     .footer-bottom ul li a {
         color: grey;
     }
+    
     .footer-bottom ul li {
         margin-right: 0;
         width: 14.2857143%;
