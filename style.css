@@ -49,9 +49,7 @@ header {
 
 .box {
     width: 350px;
-    /* background-color: white; */
     padding: 10px 20px;
-    /* box-shadow: 0 0 20px lightgray; */
     border-radius: 10px;
     margin-top: 80px;
 }
@@ -130,6 +128,7 @@ header {
     margin: auto;
     max-width: 960px;
 }
+
 #para {
     all: unset
 }
@@ -270,13 +269,16 @@ float: right;
     #para {
         font-size: 0;
     }
+    
     #screenhr {
         opacity: 100%;
         margin-top: -3.9%;
     }
+    
     label {
         font-size: 0;
     }
+    
     .copyright p {
         margin: 0px 0 15px 0;
         padding-bottom: 4px;
@@ -329,16 +331,20 @@ float: right;
     .seperator, .right, .left {
         display: none;
     }
+    
     #para {
         font-size: 0;
     }
+    
     #screenhr {
         opacity: 100%;
         margin-top: -3.9%;
     }
+    
     label {
         font-size: 0;
     }
+    
     .copyright p {
         margin: 15px 0 0 0;
         padding-bottom: 4px;
@@ -350,6 +356,7 @@ float: right;
         color: grey;
         padding-bottom: 20px;
     }
+    
     .footer-top, 
     .footer-bottom {
         font-size: 10px
@@ -391,16 +398,20 @@ float: right;
         display: none;
         
     }
+    
     #para {
         font-size: 0;
     }
+    
     #screenhr {
         opacity: 100%;
         margin-top: -3.9%;
     }
+    
     label {
         font-size: 0;
     }
+    
     .copyright p {
         margin: 15px 0 0 0;
         padding-bottom: 4px;
